@@ -1,0 +1,51 @@
+nav{
+    background-color: beige;
+    padding: 10px;
+    margin: 10px;
+    box-shadow: 0 0 10px;
+}
+a{
+    text-decoration: none;
+    border-radius: 15px;
+    padding: 18px 25px;
+}
+body{
+    background-image: url(..//table/newImages/58-581739_cristiano-ronaldo-juventus-png-2019-clipart-image-cristiano.png);
+    background-size: cover;
+}
+nav a:hover{
+    color: blue;
+    background-color: red;
+}
+.droplist1{
+    display: none;
+    position: absolute; 
+    padding: 5px;
+    width: 180px;
+}
+.dropdown1 a{
+    display: block;
+}
+.dropdown1{
+    display: inline-block;
+}
+.dropdown1:hover .droplist1{
+    display: block;
+    /* text-align: center; */
+}
+.droplist2{
+    display: none;
+    position: absolute; 
+    padding: 5px;
+    width: 180px;
+}
+.dropdown2 a{
+    display: block;
+}
+.dropdown2{
+    display: inline-block;
+}
+.dropdown2:hover .droplist2{
+    display: block;
+    /* text-align: center; */
+}

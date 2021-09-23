@@ -1,0 +1,17 @@
+nav{
+    background-color: coral;
+    padding: 15px;
+    margin: 10px;
+}
+a:hover{
+    background-color: cyan;
+    color: darkblue;
+}
+a{
+    padding: 10px;
+    margin: 10px;
+    background: darkgoldenrod;
+}
+.fa-home{
+    margin: 05px;
+}

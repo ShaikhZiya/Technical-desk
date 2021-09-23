@@ -1,0 +1,105 @@
+   .fa-home{
+       padding: 5px;
+   }
+   .fa-product-hunt{
+       padding: 5px;
+   }
+   .fa-toolbox{
+       padding: 5px;
+   }
+   .fa-address-book{
+       padding: 5px;
+   }
+    nav{
+        background: cadetblue;
+        padding: 10px;
+        position: sticky;
+        width: 90%;
+        top: 0px;
+    }
+    a{
+        color: darkblue;
+        text-decoration: none;
+        padding: 10px;
+    }
+    a:hover{
+        background color: black;
+        color:red;
+    }
+    .Detail{
+        margin: 15px;
+    }
+
+Table{
+    width: 500px;
+    padding: 10px;
+    margin: auto;
+    box-shadow: 0 0 15px red;
+}
+th{
+    background-color: black;
+    padding: 05px;
+    font-weight: bolder;
+    border-radius: 15px;
+}
+h1{
+    text-align: center;
+}
+body{
+    background-image: url(../table/newImages/pexels-photo-912110.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h5{
+    text-align: center;
+    background-color: chartreuse;
+}
+td{
+    text-align: center;
+    padding: 05px;
+    border-radius: 15px;
+}
+tr:nth-child(even){
+    background-color: rgb(192, 158, 134);
+    color: black;
+    width: 20px;
+}
+tr:nth-child(odd){
+    background-color: darkorchid;
+    color: deepskyblue;
+    
+}
+.paragraph{
+    background-color: chartreuse;
+}
+.NewImage{
+    height: 250px;
+    width: 250px;
+    float: right;
+    margin: 10px;
+    
+}
+.paragraph{
+    text-indent: 250px;
+    text-align: justify;
+    padding: 15px;
+    box-shadow:0 0 10px darkorange;
+}
+img{
+    height: 200px;
+    width: 220px;
+}
+figure{
+    display: inline-block;
+}
+figcaption{
+    text-align: center;
+    background-color: chocolate;
+    color: darkgreen;
+}
+.division{
+    background-color: royalblue;
+    background-image: url(../table/newImages/download.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
